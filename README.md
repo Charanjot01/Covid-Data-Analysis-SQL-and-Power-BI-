@@ -26,7 +26,7 @@ I imported the dataset into MS SQL and created three views containing the pertin
 To get the correct values about the covid deaths and vaccinations, I made use of  calculated columns and quick measures. At the end, I was able to create the dashboard answering the question presented above.
 After completing the dashboard, I returned to SQL and created queries to answer the same questions in order to compare the results obtained in Power BI, which also served the purpose of developing my SQL skills.
 
-### Findings (as of Jan 30, 2023)
+## Findings (as of Jan 30, 2023)
 •	Total Covid-19 cases across the world are 670 million and the total number of deaths is 7 million which makes the death percentage to be 1.02% i.e. there is a 1% percentage for someone to die if he/she catches Covid-19.
 
 •	Among continents, Europe experienced the highest number of total infections as well as total deaths. The United States has the highest maximum number of deaths among all the countries followed by the United Kingdom, Russia, Peru, and Mexico, respectively.
